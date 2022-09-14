@@ -1,2 +1,7 @@
-p  {background: rgb(104, 27, 149);
+p {background: rgb(134, 80, 165);
+}
+
+.isskirtine-pastraipa { background-color:rgb(30, 40, 120) ; 
+    border: 3px dotted yellow;
+    font-size: 24px;
 }
